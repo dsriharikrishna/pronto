@@ -1,0 +1,13 @@
+/* src/components/common/ImageSlider/ImageSlider.css */
+.slick-dots {
+  bottom: 20px !important;
+}
+
+.slick-dots li button:before {
+  color: white !important;
+  font-size: 10px !important;
+}
+
+.slick-dots li.slick-active button:before {
+  color: #00b664 !important;
+}
